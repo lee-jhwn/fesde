@@ -1,0 +1,80 @@
+sub-23/sub-23-_-(LD5_Eliminated)NPC_live||The woods are where bears live.
+sub-23/sub-23-_-NPC_aisle||The bride walked down the aisle.
+sub-23/sub-23-_-NPC_animals||The sign said do not feed the animals.
+sub-23/sub-23-_-NPC_apple||His favorite fruit was a red crisp apple.
+sub-23/sub-23-_-NPC_arm||I have two legs and two arms.
+sub-23/sub-23-_-NPC_bag||He puts his lunch in a paper bag.
+sub-23/sub-23-_-NPC_bank||My mom puts money in the bank.
+sub-23/sub-23-_-NPC_button||On the remote he clicked the button.
+sub-23/sub-23-_-NPC_cart||At the store I pushed the cart.
+sub-23/sub-23-_-NPC_chores||My mom makes me do household chores.
+sub-23/sub-23-_-NPC_clothes||My parents fold my clothes.
+sub-23/sub-23-_-NPC_cribs||Babies sleep in cribs.
+sub-23/sub-23-_-NPC_cup||I drink from a cup.
+sub-23/sub-23-_-NPC_dream||She woke up after a bad dream.
+sub-23/sub-23-_-NPC_frog||Ribbit goes the frog.
+sub-23/sub-23-_-NPC_fur||Cats have soft fur.
+sub-23/sub-23-_-NPC_mouse||The cat chased the mouse.
+sub-23/sub-23-_-NPC_one||First place is number one.
+sub-23/sub-23-_-NPC_pink||Pigs are colored pink.
+sub-23/sub-23-_-NPC_snake||Hiss goes the snake.
+sub-23/sub-23-_-NPI_bear(pie)||The woods had a big brown scary pie.
+sub-23/sub-23-_-NPI_bite(north)||He had an itchy bug north.
+sub-23/sub-23-_-NPI_cages(woman)||Animals are locked in woman.
+sub-23/sub-23-_-NPI_card(fly)||I signed a birthday fly.
+sub-23/sub-23-_-NPI_cliff(sheep)||He stood at the edge of a sheep.
+sub-23/sub-23-_-NPI_cry(fork)||When I am sad I fork.
+sub-23/sub-23-_-NPI_dare(brick)||Lets play truth or brick.
+sub-23/sub-23-_-NPI_dice(art)||In games I roll the art.
+sub-23/sub-23-_-NPI_down(tie)||She told me to calm tie.
+sub-23/sub-23-_-NPI_fall(duck)||After summer is duck.
+sub-23/sub-23-_-NPI_fork(cleats)||He eats steak with a knife and cleats.
+sub-23/sub-23-_-NPI_gel(sign)||He styled his hair with sign.
+sub-23/sub-23-_-NPI_night(inch)||It is dark at inch.
+sub-23/sub-23-_-NPI_nine(cat)||The number before ten is cat.
+sub-23/sub-23-_-NPI_one(cold)||First place is number cold.
+sub-23/sub-23-_-NPI_out(ant)||Three strikes and you are ant.
+sub-23/sub-23-_-NPI_pink(door)||Pigs are colored door.
+sub-23/sub-23-_-NPI_plank(shark)||The pirate said walk the shark.
+sub-23/sub-23-_-NPI_popped(square)||The water balloon was so full it square.
+sub-23/sub-23-_-NPI_round(kiss)||The ball is not square but kiss.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_live||The woods are where bears live.
+sub-24/sub-24-_-NPC_aisle||The bride walked down the aisle.
+sub-24/sub-24-_-NPC_animals||The sign said do not feed the animals.
+sub-24/sub-24-_-NPC_apple||His favorite fruit was a red crisp apple.
+sub-24/sub-24-_-NPC_arm||I have two legs and two arms.
+sub-24/sub-24-_-NPC_bag||He puts his lunch in a paper bag.
+sub-24/sub-24-_-NPC_bank||My mom puts money in the bank.
+sub-24/sub-24-_-NPC_button||On the remote he clicked the button.
+sub-24/sub-24-_-NPC_cart||At the store I pushed the cart.
+sub-24/sub-24-_-NPC_chores||My mom makes me do household chores.
+sub-24/sub-24-_-NPC_clothes||My parents fold my clothes.
+sub-24/sub-24-_-NPC_cribs||Babies sleep in cribs.
+sub-24/sub-24-_-NPC_cup||I drink from a cup.
+sub-24/sub-24-_-NPC_dream||She woke up after a bad dream.
+sub-24/sub-24-_-NPC_frog||Ribbit goes the frog.
+sub-24/sub-24-_-NPC_fur||Cats have soft fur.
+sub-24/sub-24-_-NPC_mouse||The cat chased the mouse.
+sub-24/sub-24-_-NPC_one||First place is number one.
+sub-24/sub-24-_-NPC_pink||Pigs are colored pink.
+sub-24/sub-24-_-NPC_snake||Hiss goes the snake.
+sub-24/sub-24-_-NPI_bear(pie)||The woods had a big brown scary pie.
+sub-24/sub-24-_-NPI_bite(north)||He had an itchy bug north.
+sub-24/sub-24-_-NPI_cages(woman)||Animals are locked in woman.
+sub-24/sub-24-_-NPI_card(fly)||I signed a birthday fly.
+sub-24/sub-24-_-NPI_cliff(sheep)||He stood at the edge of a sheep.
+sub-24/sub-24-_-NPI_cry(fork)||When I am sad I fork.
+sub-24/sub-24-_-NPI_dare(brick)||Lets play truth or brick.
+sub-24/sub-24-_-NPI_dice(art)||In games I roll the art.
+sub-24/sub-24-_-NPI_down(tie)||She told me to calm tie.
+sub-24/sub-24-_-NPI_fall(duck)||After summer is duck.
+sub-24/sub-24-_-NPI_fork(cleats)||He eats steak with a knife and cleats.
+sub-24/sub-24-_-NPI_gel(sign)||He styled his hair with sign.
+sub-24/sub-24-_-NPI_night(inch)||It is dark at inch.
+sub-24/sub-24-_-NPI_nine(cat)||The number before ten is cat.
+sub-24/sub-24-_-NPI_one(cold)||First place is number cold.
+sub-24/sub-24-_-NPI_out(ant)||Three strikes and you are ant.
+sub-24/sub-24-_-NPI_pink(door)||Pigs are colored door.
+sub-24/sub-24-_-NPI_plank(shark)||The pirate said walk the shark.
+sub-24/sub-24-_-NPI_popped(square)||The water balloon was so full it square.
+sub-24/sub-24-_-NPI_round(kiss)||The ball is not square but kiss.

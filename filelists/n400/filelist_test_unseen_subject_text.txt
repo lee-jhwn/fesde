@@ -1,0 +1,800 @@
+sub-23/sub-23-_-(LD5_Eliminated)NPC_beard||Santa has a big white beard.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_bee||I was stung by a buzzing bee.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_bench||He liked to sit on the park bench.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_chain||Prisoners walk with a ball and chain.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_cleats||For soccer you wear cleats.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_coal||Santa gives bad kids coal.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_cut||I got a hair cut.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_cute||She thinks all baby animals are cute.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_eggs||For breakfast she has bacon and eggs.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_found||My hat was in the lost and found.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_fried||He likes his chicken deep fried.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_holes||My dog digs holes.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_pole||Santa lives at the north pole.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_rings||Before school starts the bell rings.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_roar||The lion says roar.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_school||Jeff is too cool for school.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_warm||The water was luke warm.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_water||The boat floats on the water.
+sub-23/sub-23-_-(LD5_Eliminated)NPC_weight||The girl gained weight.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_beard(catch)||Santa has a big white catch.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_bee(burn)||I was stung by a buzzing burn.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_bench(grade)||He liked to sit on the park grade.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_chain(flood)||Prisoners walk with a ball and flood.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_cleats(wood)||For soccer you wear wood.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_coal(chain)||Santa gives bad kids chain.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_cut(boat)||I got a hair boat.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_cute(fence)||She thinks all baby animals are fence.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_eggs(brake)||For breakfast she has bacon and brake.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_found(goat)||My hat was in the lost and goat.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_fried(mom)||He likes his chicken deep mom.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_holes(spring)||My dog digs spring.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_live(truck)||The woods are where bears truck.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_pole(ring)||Santa lives at the north ring.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_rings(style)||Before school starts the bell style.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_roar(mold)||The lion says mold.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_school(cut)||Jeff is too cool for cut.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_warm(skunk)||The water was luke skunk.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_water(fur)||The boat floats on the fur.
+sub-23/sub-23-_-(LD5_Eliminated)NPI_weight(sky)||The girl gained sky.
+sub-23/sub-23-_-NPC_ants||The picnic was ruined by crawling ants.
+sub-23/sub-23-_-NPC_axe||My dad chops wood with an axe.
+sub-23/sub-23-_-NPC_bake||The cake is in the oven to bake.
+sub-23/sub-23-_-NPC_barn||The farmer's animals live in the barn.
+sub-23/sub-23-_-NPC_bat||The boy hit the ball with  a bat.
+sub-23/sub-23-_-NPC_bath||To get clean I take a bath.
+sub-23/sub-23-_-NPC_bear||The woods had a big brown scary bear.
+sub-23/sub-23-_-NPC_beat||The drummer keeps the beat.
+sub-23/sub-23-_-NPC_bed||At night I sleep in my bed.
+sub-23/sub-23-_-NPC_belt||Around my pants I wear a belt.
+sub-23/sub-23-_-NPC_bird||Tweet goes the bird.
+sub-23/sub-23-_-NPC_bite||He had an itchy bug bite.
+sub-23/sub-23-_-NPC_blinking||She lost the staring contest by blinking.
+sub-23/sub-23-_-NPC_blocks||The baby liked to stack blocks.
+sub-23/sub-23-_-NPC_bloom||In spring the  flowers bloom.
+sub-23/sub-23-_-NPC_blue||The color of the sky is blue.
+sub-23/sub-23-_-NPC_boat||We went fishing on a boat.
+sub-23/sub-23-_-NPC_bones||The Museum showed dinosaur bones.
+sub-23/sub-23-_-NPC_books||He likes to read books.
+sub-23/sub-23-_-NPC_bottle||The baby drinks from his bottle.
+sub-23/sub-23-_-NPC_bow||On the present I tied a bow.
+sub-23/sub-23-_-NPC_bowl||He pours cereal into a bowl.
+sub-23/sub-23-_-NPC_brakes||The car stopped with its brakes.
+sub-23/sub-23-_-NPC_bread||She baked a loaf of bread.
+sub-23/sub-23-_-NPC_bricks||My fireplace is made of red bricks.
+sub-23/sub-23-_-NPC_bridge||Boats sail under the bridge.
+sub-23/sub-23-_-NPC_bright||I wear sunglasses because the sun is bright.
+sub-23/sub-23-_-NPC_broke||He wore a cast because his arm broke.
+sub-23/sub-23-_-NPC_broom||I sweep the floor with a broom.
+sub-23/sub-23-_-NPC_brown||A tree trunk is colored brown.
+sub-23/sub-23-_-NPC_bruise||I hit my arm and got a bruise.
+sub-23/sub-23-_-NPC_bulb||Tom replaced the light bulb.
+sub-23/sub-23-_-NPC_bus||To school I ride the yellow bus.
+sub-23/sub-23-_-NPC_bushes||Outside a man trimmed the bushes.
+sub-23/sub-23-_-NPC_cages||Animals are locked in cages.
+sub-23/sub-23-_-NPC_camping||We bring a tent to go camping.
+sub-23/sub-23-_-NPC_candles||She blew out the birthday candles.
+sub-23/sub-23-_-NPC_cane||The old man walked with a cane.
+sub-23/sub-23-_-NPC_cap||He screwed off the bottle cap.
+sub-23/sub-23-_-NPC_cape||Superman wears a red cape.
+sub-23/sub-23-_-NPC_car||He puts gas in his car.
+sub-23/sub-23-_-NPC_card||I signed a birthday card.
+sub-23/sub-23-_-NPC_castle||A princess lives in a castle.
+sub-23/sub-23-_-NPC_cat||Meow goes the cat.
+sub-23/sub-23-_-NPC_catch||I throw and you catch.
+sub-23/sub-23-_-NPC_caves||Bats live in caves.
+sub-23/sub-23-_-NPC_chalk||On the sidewalk I draw with  chalk.
+sub-23/sub-23-_-NPC_cheese||Her favorite food is mac and cheese.
+sub-23/sub-23-_-NPC_chest||My heart was pounding in my chest.
+sub-23/sub-23-_-NPC_chick||A baby chicken is a chick.
+sub-23/sub-23-_-NPC_claws||The cat has sharp claws.
+sub-23/sub-23-_-NPC_clay||In art class we mold clay.
+sub-23/sub-23-_-NPC_clean||I keep my room clean.
+sub-23/sub-23-_-NPC_cliff||He stood at the edge of a cliff.
+sub-23/sub-23-_-NPC_clock||Tick tock goes the clock.
+sub-23/sub-23-_-NPC_clouds||In the sky are white fluffy clouds.
+sub-23/sub-23-_-NPC_clown||I laughed at the circus clown.
+sub-23/sub-23-_-NPC_clues||The detectives found many clues.
+sub-23/sub-23-_-NPC_coach||I was taught by my soccer coach.
+sub-23/sub-23-_-NPC_coat||I put on my rain coat.
+sub-23/sub-23-_-NPC_cob||She eats corn on the cob.
+sub-23/sub-23-_-NPC_cold||Winter is very cold.
+sub-23/sub-23-_-NPC_cone||He eats his ice cream on a cone.
+sub-23/sub-23-_-NPC_cop||He was pulled over by a cop.
+sub-23/sub-23-_-NPC_couch||I watch tv and sit on the couch.
+sub-23/sub-23-_-NPC_cough||My cold made me sneeze and cough.
+sub-23/sub-23-_-NPC_cow||Farmers milk the cows.
+sub-23/sub-23-_-NPC_crafts||I like arts and crafts.
+sub-23/sub-23-_-NPC_cream||I spray whipped cream.
+sub-23/sub-23-_-NPC_crown||A king wears a crown.
+sub-23/sub-23-_-NPC_crust||His mom makes her own pie crust.
+sub-23/sub-23-_-NPC_cry||When I am sad I cry.
+sub-23/sub-23-_-NPC_dancers||Ballerinas are great dancers.
+sub-23/sub-23-_-NPC_dare||Lets play truth or dare.
+sub-23/sub-23-_-NPC_deep||The pool was six feet deep.
+sub-23/sub-23-_-NPC_desk||In school I sit at a desk.
+sub-23/sub-23-_-NPC_dice||In games I roll the dice.
+sub-23/sub-23-_-NPC_dip||I love chips and dip.
+sub-23/sub-23-_-NPC_dirt||Worms crawl in the dirt.
+sub-23/sub-23-_-NPC_dog||Bark says the dog.
+sub-23/sub-23-_-NPC_dolls||My sister plays with Barbie dolls.
+sub-23/sub-23-_-NPC_door||He shut the door.
+sub-23/sub-23-_-NPC_down||She told me to calm down.
+sub-23/sub-23-_-NPC_dress||The bride wears a white dress.
+sub-23/sub-23-_-NPC_drill||At school there was a fire drill.
+sub-23/sub-23-_-NPC_duck||Quack goes the duck.
+sub-23/sub-23-_-NPC_dust||The old table was covered in dust.
+sub-23/sub-23-_-NPC_ears||I hear with my ears.
+sub-23/sub-23-_-NPC_earth||We live on planet earth.
+sub-23/sub-23-_-NPC_eats||The baby wears a bib when he eats.
+sub-23/sub-23-_-NPC_eyes||I see with my eyes.
+sub-23/sub-23-_-NPC_fake||The diamond was not real it was fake.
+sub-23/sub-23-_-NPC_fall||After summer is fall.
+sub-23/sub-23-_-NPC_farm||Cows live on a farm.
+sub-23/sub-23-_-NPC_fast||Cheetahs  are really fast.
+sub-23/sub-23-_-NPC_fat||Goats are skinny and pigs are fat.
+sub-23/sub-23-_-NPC_fear||The brave man had no fear.
+sub-23/sub-23-_-NPC_fight||The angry boys got in a fight.
+sub-23/sub-23-_-NPC_fin||Sharks have a tail fin.
+sub-23/sub-23-_-NPC_fingers||On one hand I have five fingers.
+sub-23/sub-23-_-NPC_fish||On the boat my dad caught a fish.
+sub-23/sub-23-_-NPC_fist||I punched the bag with my fist.
+sub-23/sub-23-_-NPC_fixed||The toy broke and needed to be fixed.
+sub-23/sub-23-_-NPC_flag||He waves an American flag.
+sub-23/sub-23-_-NPC_flat||The earth is round not flat.
+sub-23/sub-23-_-NPC_flip||On the trampoline he did a flip.
+sub-23/sub-23-_-NPC_flop||At the pool he did a belly flop.
+sub-23/sub-23-_-NPC_fly||She swatted the fly.
+sub-23/sub-23-_-NPC_foot||I put the sock on my foot.
+sub-23/sub-23-_-NPC_fork||He eats steak with a knife and fork.
+sub-23/sub-23-_-NPC_freeze||In the winter the pond will freeze.
+sub-23/sub-23-_-NPC_fridge||The Jell-O had to chill in the fridge.
+sub-23/sub-23-_-NPC_friend||I play with my best friend.
+sub-23/sub-23-_-NPC_fruit||He likes to eat fresh fruit.
+sub-23/sub-23-_-NPC_game||His dad watches the football game.
+sub-23/sub-23-_-NPC_gel||He styled his hair with gel.
+sub-23/sub-23-_-NPC_ghosts||The house was haunted by ghosts.
+sub-23/sub-23-_-NPC_gills||Fish breathe through gills.
+sub-23/sub-23-_-NPC_glass||Windows are made of glass.
+sub-23/sub-23-_-NPC_gloves||On his hands are a pair of gloves.
+sub-23/sub-23-_-NPC_glue||The paper sticks together like glue.
+sub-23/sub-23-_-NPC_goal||The soccer team scored a goal.
+sub-23/sub-23-_-NPC_goat||Bah says the sheep and goat.
+sub-23/sub-23-_-NPC_gold||Wedding rings are made of gold.
+sub-23/sub-23-_-NPC_gone||The cookies were eaten until they were gone.
+sub-23/sub-23-_-NPC_goose||We played duck duck goose.
+sub-23/sub-23-_-NPC_grade||In school he is in first grade.
+sub-23/sub-23-_-NPC_grapes||Raisins are dried grapes.
+sub-23/sub-23-_-NPC_gray||The rainy sky was colored gray.
+sub-23/sub-23-_-NPC_green||The grass is colored green.
+sub-23/sub-23-_-NPC_grill||He cooked hotdogs outside on the grill.
+sub-23/sub-23-_-NPC_guess||On an answer he made a lucky guess.
+sub-23/sub-23-_-NPC_gum||He is chewing bubble gum.
+sub-23/sub-23-_-NPC_hair||Bald people do not have hair.
+sub-23/sub-23-_-NPC_hands||I clap my hands.
+sub-23/sub-23-_-NPC_hug||Charlie wanted a kiss and a hug.
+sub-23/sub-23-_-NPC_inches||This year he has grown two inches.
+sub-23/sub-23-_-NPC_job||His mom quit her job.
+sub-23/sub-23-_-NPC_kitchen||She cooks in the kitchen.
+sub-23/sub-23-_-NPC_lawn||My dad mows the lawn.
+sub-23/sub-23-_-NPC_legs||Dogs have four legs.
+sub-23/sub-23-_-NPC_lie||Not telling the truth is telling a lie.
+sub-23/sub-23-_-NPC_nests||Birds like to build nests.
+sub-23/sub-23-_-NPC_nice||The opposite of mean is nice.
+sub-23/sub-23-_-NPC_night||It is dark at night.
+sub-23/sub-23-_-NPC_nine||The number before ten is nine.
+sub-23/sub-23-_-NPC_out||Three strikes and you are out!
+sub-23/sub-23-_-NPC_outside||He put on his shoes to go outside.
+sub-23/sub-23-_-NPC_pants||He pulled up his pants.
+sub-23/sub-23-_-NPC_party||He had fun at the birthday party.
+sub-23/sub-23-_-NPC_phone||He called Helen on the phone.
+sub-23/sub-23-_-NPC_pictures||I like to draw pictures.
+sub-23/sub-23-_-NPC_pipe||His grandpa smoked from a pipe.
+sub-23/sub-23-_-NPC_plank||The pirate said walk the plank!
+sub-23/sub-23-_-NPC_popped||The water balloon was so full it popped.
+sub-23/sub-23-_-NPC_present||For his birthday I wrapped a present.
+sub-23/sub-23-_-NPC_round||The ball is not square but round.
+sub-23/sub-23-_-NPC_shot||The doctor gave him a flu shot.
+sub-23/sub-23-_-NPC_skunk||His dog was sprayed by a skunk.
+sub-23/sub-23-_-NPC_solve||He had a mystery to solve.
+sub-23/sub-23-_-NPC_spider||There are eight legs on a spider.
+sub-23/sub-23-_-NPC_steal||A thief likes to steal.
+sub-23/sub-23-_-NPC_store||We buy toys at the toy store.
+sub-23/sub-23-_-NPC_stove||He burned his hand on the stove.
+sub-23/sub-23-_-NPC_string||His guitar had a broken string.
+sub-23/sub-23-_-NPC_study||He failed the test because he didn't study.
+sub-23/sub-23-_-NPC_sun||The clouds hid the sun.
+sub-23/sub-23-_-NPC_tank||Mom filled up her gas tank.
+sub-23/sub-23-_-NPC_tear||Down the sad woman's cheek came a tear.
+sub-23/sub-23-_-NPC_test||I cheated on the test.
+sub-23/sub-23-_-NPC_thorns||The rose had sharp thorns.
+sub-23/sub-23-_-NPC_three||I count one two three.
+sub-23/sub-23-_-NPC_toilet||I flush the toilet.
+sub-23/sub-23-_-NPC_trees||A monkey climbs trees.
+sub-23/sub-23-_-NPC_truck||His dad drove a delivery truck.
+sub-23/sub-23-_-NPC_walk||Babies crawl before they walk.
+sub-23/sub-23-_-NPC_wear||She had no clothes to wear.
+sub-23/sub-23-_-NPC_wet||The water got her hair wet.
+sub-23/sub-23-_-NPC_whales||The biggest animals in the sea are whales.
+sub-23/sub-23-_-NPC_wind||My hair was blown by the wind.
+sub-23/sub-23-_-NPC_wood||He chopped the wood.
+sub-23/sub-23-_-NPI_aisle(chicken)||The bride walked down the chicken.
+sub-23/sub-23-_-NPI_animals(trampoline)||The sign said do not feed the trampoline.
+sub-23/sub-23-_-NPI_ants(fish)||The picnic was ruined by crawling fish.
+sub-23/sub-23-_-NPI_apple(balloon)||His favorite fruit was a red crisp balloon.
+sub-23/sub-23-_-NPI_arm(stack)||I have two legs and two stack.
+sub-23/sub-23-_-NPI_axe(grass)||My dad chops wood with an grass.
+sub-23/sub-23-_-NPI_bag(bell)||He puts his lunch in a paper bell.
+sub-23/sub-23-_-NPI_bake(milk)||The cake is in the oven to milk.
+sub-23/sub-23-_-NPI_bank(hike)||My mom puts money in the hike.
+sub-23/sub-23-_-NPI_barn(claw)||The farmer's animals live in the claw.
+sub-23/sub-23-_-NPI_bat(gel)||The boy hit the ball with  a gel.
+sub-23/sub-23-_-NPI_bath(roar)||To get clean I take a roar.
+sub-23/sub-23-_-NPI_beat(sneeze)||The drummer keeps the sneeze.
+sub-23/sub-23-_-NPI_bed(frog)||At night I sleep in my frog.
+sub-23/sub-23-_-NPI_belt(bed)||Around my pants I wear a bed.
+sub-23/sub-23-_-NPI_bird(thorn)||Tweet goes the thorn.
+sub-23/sub-23-_-NPI_blinking(belly)||She lost the staring contest by belly.
+sub-23/sub-23-_-NPI_blocks(night)||The baby liked to stack night.
+sub-23/sub-23-_-NPI_bloom(school)||In spring the  flowers school.
+sub-23/sub-23-_-NPI_blue(arm)||The color of the sky is arm.
+sub-23/sub-23-_-NPI_boat(cop)||We went fishing on a cop.
+sub-23/sub-23-_-NPI_bones(wind)||The Museum showed dinosaur wind.
+sub-23/sub-23-_-NPI_books(tear)||He likes to read tear.
+sub-23/sub-23-_-NPI_bottle(money)||The baby drinks from his money.
+sub-23/sub-23-_-NPI_bow(eye)||On the present I tied a eye.
+sub-23/sub-23-_-NPI_bowl(test)||He pours cereal into a test.
+sub-23/sub-23-_-NPI_brakes(cob)||The car stopped with its cob.
+sub-23/sub-23-_-NPI_bread(sea)||She baked a loaf of sea.
+sub-23/sub-23-_-NPI_bricks(leg)||My fireplace is made of red leg.
+sub-23/sub-23-_-NPI_bridge(steak)||Boats sail under the steak.
+sub-23/sub-23-_-NPI_bright(gills)||I wear sunglasses because the sun is gills.
+sub-23/sub-23-_-NPI_broke(pond)||He wore a cast because his arm pond.
+sub-23/sub-23-_-NPI_broom(bus)||I sweep the floor with a bus.
+sub-23/sub-23-_-NPI_brown(job)||A tree trunk is colored job.
+sub-23/sub-23-_-NPI_bruise(rain)||I hit my arm and got a rain.
+sub-23/sub-23-_-NPI_bulb(farm)||Tom replaced the light farm.
+sub-23/sub-23-_-NPI_bus(egg)||To school I ride the yellow egg.
+sub-23/sub-23-_-NPI_bushes(oven)||Outside a man trimmed the oven.
+sub-23/sub-23-_-NPI_button(hotdog)||On the remote he clicked the hotdog.
+sub-23/sub-23-_-NPI_cake(clue)||He baked a birthday clue.
+sub-23/sub-23-_-NPI_camping(bacon)||We bring a tent to go bacon.
+sub-23/sub-23-_-NPI_candles(planet)||She blew out the birthday planet.
+sub-23/sub-23-_-NPI_cane(fin)||The old man walked with a fin.
+sub-23/sub-23-_-NPI_cap(chore)||He screwed off the bottle chore.
+sub-23/sub-23-_-NPI_cape(pole)||Superman wears a red pole.
+sub-23/sub-23-_-NPI_car(chest)||He puts gas in his chest.
+sub-23/sub-23-_-NPI_cart(score)||At the store I pushed the score.
+sub-23/sub-23-_-NPI_castle(doctor)||A princess lives in a doctor.
+sub-23/sub-23-_-NPI_cat(spray)||Meow goes the spray.
+sub-23/sub-23-_-NPI_catch(road)||I throw and you road.
+sub-23/sub-23-_-NPI_caves(string)||Bats live in string.
+sub-23/sub-23-_-NPI_chalk(fat)||On the sidewalk I draw with  fat.
+sub-23/sub-23-_-NPI_cheese(clock)||Her favorite food is mac and clock.
+sub-23/sub-23-_-NPI_chest(sock)||My heart was pounding in my sock.
+sub-23/sub-23-_-NPI_chick(bruise)||A baby chicken is a bruise.
+sub-23/sub-23-_-NPI_chores(cave)||My mom makes me do household cave.
+sub-23/sub-23-_-NPI_claws(floor)||The cat has sharp floor.
+sub-23/sub-23-_-NPI_clay(gas)||In art class we mold gas.
+sub-23/sub-23-_-NPI_clean(cheek)||I keep my room cheek.
+sub-23/sub-23-_-NPI_clock(tree)||Tick tock goes the tree.
+sub-23/sub-23-_-NPI_clothes(bite)||My parents fold my bite.
+sub-23/sub-23-_-NPI_clouds(dirt)||In the sky are white fluffy dirt.
+sub-23/sub-23-_-NPI_clown(dice)||I laughed at the circus dice.
+sub-23/sub-23-_-NPI_clues(year)||The detectives found many year.
+sub-23/sub-23-_-NPI_coach(goose)||I was taught by my soccer goose.
+sub-23/sub-23-_-NPI_coat(loaf)||I put on my rain loaf.
+sub-23/sub-23-_-NPI_cob(lie)||She eats corn on the lie.
+sub-23/sub-23-_-NPI_cold(bib)||Winter is very bib.
+sub-23/sub-23-_-NPI_cone(hug)||He eats his ice cream on a hug.
+sub-23/sub-23-_-NPI_cop(cake)||He was pulled over by a cake.
+sub-23/sub-23-_-NPI_couch(bulb)||I watch tv and sit on the bulb.
+sub-23/sub-23-_-NPI_cough(friend)||My cold made me sneeze and friend.
+sub-23/sub-23-_-NPI_cow(axe)||Farmers milk the axe.
+sub-23/sub-23-_-NPI_crafts(tank)||I like arts and tank.
+sub-23/sub-23-_-NPI_cream(couch)||I spray whipped couch.
+sub-23/sub-23-_-NPI_cribs(shot)||Babies sleep in shot.
+sub-23/sub-23-_-NPI_crown(bench)||A king wears a bench.
+sub-23/sub-23-_-NPI_crust(foot)||His mom makes her own pie foot.
+sub-23/sub-23-_-NPI_dancers(pirate)||Ballerinas are great pirate.
+sub-23/sub-23-_-NPI_deep(bone)||The pool was six feet bone.
+sub-23/sub-23-_-NPI_desk(ice)||In school I sit at a ice.
+sub-23/sub-23-_-NPI_dip(cage)||I love chips and cage.
+sub-23/sub-23-_-NPI_dirt(screw)||Worms crawl in the screw.
+sub-23/sub-23-_-NPI_dog(chalk)||Bark says the chalk.
+sub-23/sub-23-_-NPI_dolls(worm)||My sister plays with Barbie worm.
+sub-23/sub-23-_-NPI_door(smoke)||He shut the smoke.
+sub-23/sub-23-_-NPI_dream(lawn)||She woke up after a bad lawn.
+sub-23/sub-23-_-NPI_dress(fun)||The bride wears a white fun.
+sub-23/sub-23-_-NPI_drill(bowl)||At school there was a fire bowl.
+sub-23/sub-23-_-NPI_duck(bank)||Quack goes the bank.
+sub-23/sub-23-_-NPI_dust(cook)||The old table was covered in cook.
+sub-23/sub-23-_-NPI_ears(bee)||I hear with my bee.
+sub-23/sub-23-_-NPI_earth(rose)||We live on planet rose.
+sub-23/sub-23-_-NPI_eats(ball)||The baby wears a bib when he ball.
+sub-23/sub-23-_-NPI_eyes(hip)||I see with my hip.
+sub-23/sub-23-_-NPI_fake(crust)||The diamond was not real it was crust.
+sub-23/sub-23-_-NPI_farm(bird)||Cows live on a bird.
+sub-23/sub-23-_-NPI_fast(thief)||Cheetahs  are really thief.
+sub-23/sub-23-_-NPI_fat(glass)||Goats are skinny and pigs are glass.
+sub-23/sub-23-_-NPI_fear(walk)||The brave man had no walk.
+sub-23/sub-23-_-NPI_fight(mouse)||The angry boys got in a mouse.
+sub-23/sub-23-_-NPI_fin(desk)||Sharks have a tail desk.
+sub-23/sub-23-_-NPI_fingers(kitchen)||On one hand I have five kitchen.
+sub-23/sub-23-_-NPI_fish(cry)||On the boat my dad caught a cry.
+sub-23/sub-23-_-NPI_fist(bath)||I punched the bag with my bath.
+sub-23/sub-23-_-NPI_fixed(dog)||The toy broke and needed to be dog.
+sub-23/sub-23-_-NPI_flag(touch)||He waves an American touch.
+sub-23/sub-23-_-NPI_flat(cow)||The earth is round not cow.
+sub-23/sub-23-_-NPI_flip(dark)||On the trampoline he did a dark.
+sub-23/sub-23-_-NPI_flop(toy)||At the pool he did a belly toy.
+sub-23/sub-23-_-NPI_fly(edge)||She swatted the edge.
+sub-23/sub-23-_-NPI_foot(shout)||I put the sock on my shout.
+sub-23/sub-23-_-NPI_freeze(sun)||In the winter the pond will sun.
+sub-23/sub-23-_-NPI_fridge(pig)||The Jell-O had to chill in the pig.
+sub-23/sub-23-_-NPI_friend(pound)||I play with my best pound.
+sub-23/sub-23-_-NPI_frog(glove)||Ribbit goes the glove.
+sub-23/sub-23-_-NPI_fruit(tent)||He likes to eat fresh tent.
+sub-23/sub-23-_-NPI_fur(dad)||Cats have soft dad.
+sub-23/sub-23-_-NPI_game(coal)||His dad watches the football coal.
+sub-23/sub-23-_-NPI_ghosts(strike)||The house was haunted by strike.
+sub-23/sub-23-_-NPI_gills(doll)||Fish breathe through doll.
+sub-23/sub-23-_-NPI_glass(shoe)||Windows are made of shoe.
+sub-23/sub-23-_-NPI_gloves(car)||On his hands are a pair of car.
+sub-23/sub-23-_-NPI_glue(cliff)||The paper sticks together like cliff.
+sub-23/sub-23-_-NPI_goal(hair)||The soccer team scored a hair.
+sub-23/sub-23-_-NPI_goat(bread)||Bah says the sheep and bread.
+sub-23/sub-23-_-NPI_gold(fridge)||Wedding rings are made of fridge.
+sub-23/sub-23-_-NPI_gone(feet)||The cookies were eaten until they were feet.
+sub-23/sub-23-_-NPI_goose(pipe)||We played duck duck pipe.
+sub-23/sub-23-_-NPI_grade(grill)||In school he is in first grill.
+sub-23/sub-23-_-NPI_grapes(man)||Raisins are dried man.
+sub-23/sub-23-_-NPI_gray(bald)||The rainy sky was colored bald.
+sub-23/sub-23-_-NPI_green(lock)||The grass is colored lock.
+sub-23/sub-23-_-NPI_grill(heart)||He cooked hotdogs outside on the heart.
+sub-23/sub-23-_-NPI_guess(grape)||On an answer he made a lucky grape.
+sub-23/sub-23-_-NPI_gum(coat)||He is chewing bubble coat.
+sub-23/sub-23-_-NPI_hair(nest)||Bald people do not have nest.
+sub-23/sub-23-_-NPI_hands(king)||I clap my king.
+sub-23/sub-23-_-NPI_hug(fear)||Charlie wanted a kiss and a fear.
+sub-23/sub-23-_-NPI_inches(cookie)||This year he has grown two cookie.
+sub-23/sub-23-_-NPI_job(pants)||His mom quit her pants.
+sub-23/sub-23-_-NPI_kitchen(baby)||She cooks in the baby.
+sub-23/sub-23-_-NPI_lawn(weight)||My dad mows the weight.
+sub-23/sub-23-_-NPI_legs(barn)||Dogs have four barn.
+sub-23/sub-23-_-NPI_lie(cup)||Not telling the truth is telling a cup.
+sub-23/sub-23-_-NPI_mouse(store)||The cat chased the store.
+sub-23/sub-23-_-NPI_nests(drill)||Birds like to build drill.
+sub-23/sub-23-_-NPI_nice(gum)||The opposite of mean is gum.
+sub-23/sub-23-_-NPI_outside(apple)||He put on his shoes to go apple.
+sub-23/sub-23-_-NPI_pants(woods)||He pulled up his woods.
+sub-23/sub-23-_-NPI_party(sidewalk)||He had fun at the birthday sidewalk.
+sub-23/sub-23-_-NPI_phone(snake)||He called Helen on the snake.
+sub-23/sub-23-_-NPI_pictures(contest)||I like to draw contest.
+sub-23/sub-23-_-NPI_pipe(phone)||His grandpa smoked from a phone.
+sub-23/sub-23-_-NPI_present(sister)||For his birthday I wrapped a sister.
+sub-23/sub-23-_-NPI_shot(crown)||The doctor gave him a flu crown.
+sub-23/sub-23-_-NPI_skunk(broom)||His dog was sprayed by a broom.
+sub-23/sub-23-_-NPI_snake(play)||Hiss goes the play.
+sub-23/sub-23-_-NPI_solve(cloud)||He had a mystery to cloud.
+sub-23/sub-23-_-NPI_spider(summer)||There are eight legs on a summer.
+sub-23/sub-23-_-NPI_steal(earth)||A thief likes to earth.
+sub-23/sub-23-_-NPI_store(stick)||We buy toys at the toy stick.
+sub-23/sub-23-_-NPI_stove(kid)||He burned his hand on the kid.
+sub-23/sub-23-_-NPI_string(chick)||His guitar had a broken chick.
+sub-23/sub-23-_-NPI_study(princess)||He failed the test because he didn't princess.
+sub-23/sub-23-_-NPI_sun(lunch)||The clouds hid the lunch.
+sub-23/sub-23-_-NPI_tank(truth)||Mom filled up her gas truth.
+sub-23/sub-23-_-NPI_tear(corn)||Down the sad woman's cheek came a corn.
+sub-23/sub-23-_-NPI_test(dust)||I cheated on the dust.
+sub-23/sub-23-_-NPI_thorns(house)||The rose had sharp house.
+sub-23/sub-23-_-NPI_three(boy)||I count one two boy.
+sub-23/sub-23-_-NPI_toilet(window)||I flush the window.
+sub-23/sub-23-_-NPI_trees(book)||A monkey climbs book.
+sub-23/sub-23-_-NPI_truck(cap)||His dad drove a delivery break.
+sub-23/sub-23-_-NPI_walk(class)||Babies crawl before they class.
+sub-23/sub-23-_-NPI_wear(chief)||She had no clothes to chief.
+sub-23/sub-23-_-NPI_wet(whale)||The water got her hair whale.
+sub-23/sub-23-_-NPI_whales(dress)||The biggest animals in the sea are dress.
+sub-23/sub-23-_-NPI_wind(cheese)||My hair was blown by the cheese.
+sub-23/sub-23-_-NPI_wood(cough)||He chopped the cough.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_beard||Santa has a big white beard.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_bee||I was stung by a buzzing bee.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_bench||He liked to sit on the park bench.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_chain||Prisoners walk with a ball and chain.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_cleats||For soccer you wear cleats.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_coal||Santa gives bad kids coal.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_cut||I got a hair cut.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_cute||She thinks all baby animals are cute.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_eggs||For breakfast she has bacon and eggs.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_found||My hat was in the lost and found.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_fried||He likes his chicken deep fried.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_holes||My dog digs holes.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_pole||Santa lives at the north pole.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_rings||Before school starts the bell rings.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_roar||The lion says roar.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_school||Jeff is too cool for school.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_warm||The water was luke warm.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_water||The boat floats on the water.
+sub-24/sub-24-_-(LD5_Eliminated)NPC_weight||The girl gained weight.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_beard(catch)||Santa has a big white catch.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_bee(burn)||I was stung by a buzzing burn.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_bench(grade)||He liked to sit on the park grade.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_chain(flood)||Prisoners walk with a ball and flood.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_cleats(wood)||For soccer you wear wood.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_coal(chain)||Santa gives bad kids chain.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_cut(boat)||I got a hair boat.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_cute(fence)||She thinks all baby animals are fence.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_eggs(brake)||For breakfast she has bacon and brake.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_found(goat)||My hat was in the lost and goat.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_fried(mom)||He likes his chicken deep mom.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_holes(spring)||My dog digs spring.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_live(truck)||The woods are where bears truck.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_pole(ring)||Santa lives at the north ring.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_rings(style)||Before school starts the bell style.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_roar(mold)||The lion says mold.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_school(cut)||Jeff is too cool for cut.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_warm(skunk)||The water was luke skunk.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_water(fur)||The boat floats on the fur.
+sub-24/sub-24-_-(LD5_Eliminated)NPI_weight(sky)||The girl gained sky.
+sub-24/sub-24-_-NPC_ants||The picnic was ruined by crawling ants.
+sub-24/sub-24-_-NPC_axe||My dad chops wood with an axe.
+sub-24/sub-24-_-NPC_bake||The cake is in the oven to bake.
+sub-24/sub-24-_-NPC_barn||The farmer's animals live in the barn.
+sub-24/sub-24-_-NPC_bat||The boy hit the ball with  a bat.
+sub-24/sub-24-_-NPC_bath||To get clean I take a bath.
+sub-24/sub-24-_-NPC_bear||The woods had a big brown scary bear.
+sub-24/sub-24-_-NPC_beat||The drummer keeps the beat.
+sub-24/sub-24-_-NPC_bed||At night I sleep in my bed.
+sub-24/sub-24-_-NPC_belt||Around my pants I wear a belt.
+sub-24/sub-24-_-NPC_bird||Tweet goes the bird.
+sub-24/sub-24-_-NPC_bite||He had an itchy bug bite.
+sub-24/sub-24-_-NPC_blinking||She lost the staring contest by blinking.
+sub-24/sub-24-_-NPC_blocks||The baby liked to stack blocks.
+sub-24/sub-24-_-NPC_bloom||In spring the  flowers bloom.
+sub-24/sub-24-_-NPC_blue||The color of the sky is blue.
+sub-24/sub-24-_-NPC_boat||We went fishing on a boat.
+sub-24/sub-24-_-NPC_bones||The Museum showed dinosaur bones.
+sub-24/sub-24-_-NPC_books||He likes to read books.
+sub-24/sub-24-_-NPC_bottle||The baby drinks from his bottle.
+sub-24/sub-24-_-NPC_bow||On the present I tied a bow.
+sub-24/sub-24-_-NPC_bowl||He pours cereal into a bowl.
+sub-24/sub-24-_-NPC_brakes||The car stopped with its brakes.
+sub-24/sub-24-_-NPC_bread||She baked a loaf of bread.
+sub-24/sub-24-_-NPC_bricks||My fireplace is made of red bricks.
+sub-24/sub-24-_-NPC_bridge||Boats sail under the bridge.
+sub-24/sub-24-_-NPC_bright||I wear sunglasses because the sun is bright.
+sub-24/sub-24-_-NPC_broke||He wore a cast because his arm broke.
+sub-24/sub-24-_-NPC_broom||I sweep the floor with a broom.
+sub-24/sub-24-_-NPC_brown||A tree trunk is colored brown.
+sub-24/sub-24-_-NPC_bruise||I hit my arm and got a bruise.
+sub-24/sub-24-_-NPC_bulb||Tom replaced the light bulb.
+sub-24/sub-24-_-NPC_bus||To school I ride the yellow bus.
+sub-24/sub-24-_-NPC_bushes||Outside a man trimmed the bushes.
+sub-24/sub-24-_-NPC_cages||Animals are locked in cages.
+sub-24/sub-24-_-NPC_camping||We bring a tent to go camping.
+sub-24/sub-24-_-NPC_candles||She blew out the birthday candles.
+sub-24/sub-24-_-NPC_cane||The old man walked with a cane.
+sub-24/sub-24-_-NPC_cap||He screwed off the bottle cap.
+sub-24/sub-24-_-NPC_cape||Superman wears a red cape.
+sub-24/sub-24-_-NPC_car||He puts gas in his car.
+sub-24/sub-24-_-NPC_card||I signed a birthday card.
+sub-24/sub-24-_-NPC_castle||A princess lives in a castle.
+sub-24/sub-24-_-NPC_cat||Meow goes the cat.
+sub-24/sub-24-_-NPC_catch||I throw and you catch.
+sub-24/sub-24-_-NPC_caves||Bats live in caves.
+sub-24/sub-24-_-NPC_chalk||On the sidewalk I draw with  chalk.
+sub-24/sub-24-_-NPC_cheese||Her favorite food is mac and cheese.
+sub-24/sub-24-_-NPC_chest||My heart was pounding in my chest.
+sub-24/sub-24-_-NPC_chick||A baby chicken is a chick.
+sub-24/sub-24-_-NPC_claws||The cat has sharp claws.
+sub-24/sub-24-_-NPC_clay||In art class we mold clay.
+sub-24/sub-24-_-NPC_clean||I keep my room clean.
+sub-24/sub-24-_-NPC_cliff||He stood at the edge of a cliff.
+sub-24/sub-24-_-NPC_clock||Tick tock goes the clock.
+sub-24/sub-24-_-NPC_clouds||In the sky are white fluffy clouds.
+sub-24/sub-24-_-NPC_clown||I laughed at the circus clown.
+sub-24/sub-24-_-NPC_clues||The detectives found many clues.
+sub-24/sub-24-_-NPC_coach||I was taught by my soccer coach.
+sub-24/sub-24-_-NPC_coat||I put on my rain coat.
+sub-24/sub-24-_-NPC_cob||She eats corn on the cob.
+sub-24/sub-24-_-NPC_cold||Winter is very cold.
+sub-24/sub-24-_-NPC_cone||He eats his ice cream on a cone.
+sub-24/sub-24-_-NPC_cop||He was pulled over by a cop.
+sub-24/sub-24-_-NPC_couch||I watch tv and sit on the couch.
+sub-24/sub-24-_-NPC_cough||My cold made me sneeze and cough.
+sub-24/sub-24-_-NPC_cow||Farmers milk the cows.
+sub-24/sub-24-_-NPC_crafts||I like arts and crafts.
+sub-24/sub-24-_-NPC_cream||I spray whipped cream.
+sub-24/sub-24-_-NPC_crown||A king wears a crown.
+sub-24/sub-24-_-NPC_crust||His mom makes her own pie crust.
+sub-24/sub-24-_-NPC_cry||When I am sad I cry.
+sub-24/sub-24-_-NPC_dancers||Ballerinas are great dancers.
+sub-24/sub-24-_-NPC_dare||Lets play truth or dare.
+sub-24/sub-24-_-NPC_deep||The pool was six feet deep.
+sub-24/sub-24-_-NPC_desk||In school I sit at a desk.
+sub-24/sub-24-_-NPC_dice||In games I roll the dice.
+sub-24/sub-24-_-NPC_dip||I love chips and dip.
+sub-24/sub-24-_-NPC_dirt||Worms crawl in the dirt.
+sub-24/sub-24-_-NPC_dog||Bark says the dog.
+sub-24/sub-24-_-NPC_dolls||My sister plays with Barbie dolls.
+sub-24/sub-24-_-NPC_door||He shut the door.
+sub-24/sub-24-_-NPC_down||She told me to calm down.
+sub-24/sub-24-_-NPC_dress||The bride wears a white dress.
+sub-24/sub-24-_-NPC_drill||At school there was a fire drill.
+sub-24/sub-24-_-NPC_duck||Quack goes the duck.
+sub-24/sub-24-_-NPC_dust||The old table was covered in dust.
+sub-24/sub-24-_-NPC_ears||I hear with my ears.
+sub-24/sub-24-_-NPC_earth||We live on planet earth.
+sub-24/sub-24-_-NPC_eats||The baby wears a bib when he eats.
+sub-24/sub-24-_-NPC_eyes||I see with my eyes.
+sub-24/sub-24-_-NPC_fake||The diamond was not real it was fake.
+sub-24/sub-24-_-NPC_fall||After summer is fall.
+sub-24/sub-24-_-NPC_farm||Cows live on a farm.
+sub-24/sub-24-_-NPC_fast||Cheetahs  are really fast.
+sub-24/sub-24-_-NPC_fat||Goats are skinny and pigs are fat.
+sub-24/sub-24-_-NPC_fear||The brave man had no fear.
+sub-24/sub-24-_-NPC_fight||The angry boys got in a fight.
+sub-24/sub-24-_-NPC_fin||Sharks have a tail fin.
+sub-24/sub-24-_-NPC_fingers||On one hand I have five fingers.
+sub-24/sub-24-_-NPC_fish||On the boat my dad caught a fish.
+sub-24/sub-24-_-NPC_fist||I punched the bag with my fist.
+sub-24/sub-24-_-NPC_fixed||The toy broke and needed to be fixed.
+sub-24/sub-24-_-NPC_flag||He waves an American flag.
+sub-24/sub-24-_-NPC_flat||The earth is round not flat.
+sub-24/sub-24-_-NPC_flip||On the trampoline he did a flip.
+sub-24/sub-24-_-NPC_flop||At the pool he did a belly flop.
+sub-24/sub-24-_-NPC_fly||She swatted the fly.
+sub-24/sub-24-_-NPC_foot||I put the sock on my foot.
+sub-24/sub-24-_-NPC_fork||He eats steak with a knife and fork.
+sub-24/sub-24-_-NPC_freeze||In the winter the pond will freeze.
+sub-24/sub-24-_-NPC_fridge||The Jell-O had to chill in the fridge.
+sub-24/sub-24-_-NPC_friend||I play with my best friend.
+sub-24/sub-24-_-NPC_fruit||He likes to eat fresh fruit.
+sub-24/sub-24-_-NPC_game||His dad watches the football game.
+sub-24/sub-24-_-NPC_gel||He styled his hair with gel.
+sub-24/sub-24-_-NPC_ghosts||The house was haunted by ghosts.
+sub-24/sub-24-_-NPC_gills||Fish breathe through gills.
+sub-24/sub-24-_-NPC_glass||Windows are made of glass.
+sub-24/sub-24-_-NPC_gloves||On his hands are a pair of gloves.
+sub-24/sub-24-_-NPC_glue||The paper sticks together like glue.
+sub-24/sub-24-_-NPC_goal||The soccer team scored a goal.
+sub-24/sub-24-_-NPC_goat||Bah says the sheep and goat.
+sub-24/sub-24-_-NPC_gold||Wedding rings are made of gold.
+sub-24/sub-24-_-NPC_gone||The cookies were eaten until they were gone.
+sub-24/sub-24-_-NPC_goose||We played duck duck goose.
+sub-24/sub-24-_-NPC_grade||In school he is in first grade.
+sub-24/sub-24-_-NPC_grapes||Raisins are dried grapes.
+sub-24/sub-24-_-NPC_gray||The rainy sky was colored gray.
+sub-24/sub-24-_-NPC_green||The grass is colored green.
+sub-24/sub-24-_-NPC_grill||He cooked hotdogs outside on the grill.
+sub-24/sub-24-_-NPC_guess||On an answer he made a lucky guess.
+sub-24/sub-24-_-NPC_gum||He is chewing bubble gum.
+sub-24/sub-24-_-NPC_hair||Bald people do not have hair.
+sub-24/sub-24-_-NPC_hands||I clap my hands.
+sub-24/sub-24-_-NPC_hug||Charlie wanted a kiss and a hug.
+sub-24/sub-24-_-NPC_inches||This year he has grown two inches.
+sub-24/sub-24-_-NPC_job||His mom quit her job.
+sub-24/sub-24-_-NPC_kitchen||She cooks in the kitchen.
+sub-24/sub-24-_-NPC_lawn||My dad mows the lawn.
+sub-24/sub-24-_-NPC_legs||Dogs have four legs.
+sub-24/sub-24-_-NPC_lie||Not telling the truth is telling a lie.
+sub-24/sub-24-_-NPC_nests||Birds like to build nests.
+sub-24/sub-24-_-NPC_nice||The opposite of mean is nice.
+sub-24/sub-24-_-NPC_night||It is dark at night.
+sub-24/sub-24-_-NPC_nine||The number before ten is nine.
+sub-24/sub-24-_-NPC_out||Three strikes and you are out!
+sub-24/sub-24-_-NPC_outside||He put on his shoes to go outside.
+sub-24/sub-24-_-NPC_pants||He pulled up his pants.
+sub-24/sub-24-_-NPC_party||He had fun at the birthday party.
+sub-24/sub-24-_-NPC_phone||He called Helen on the phone.
+sub-24/sub-24-_-NPC_pictures||I like to draw pictures.
+sub-24/sub-24-_-NPC_pipe||His grandpa smoked from a pipe.
+sub-24/sub-24-_-NPC_plank||The pirate said walk the plank!
+sub-24/sub-24-_-NPC_popped||The water balloon was so full it popped.
+sub-24/sub-24-_-NPC_present||For his birthday I wrapped a present.
+sub-24/sub-24-_-NPC_round||The ball is not square but round.
+sub-24/sub-24-_-NPC_shot||The doctor gave him a flu shot.
+sub-24/sub-24-_-NPC_skunk||His dog was sprayed by a skunk.
+sub-24/sub-24-_-NPC_solve||He had a mystery to solve.
+sub-24/sub-24-_-NPC_spider||There are eight legs on a spider.
+sub-24/sub-24-_-NPC_steal||A thief likes to steal.
+sub-24/sub-24-_-NPC_store||We buy toys at the toy store.
+sub-24/sub-24-_-NPC_stove||He burned his hand on the stove.
+sub-24/sub-24-_-NPC_string||His guitar had a broken string.
+sub-24/sub-24-_-NPC_study||He failed the test because he didn't study.
+sub-24/sub-24-_-NPC_sun||The clouds hid the sun.
+sub-24/sub-24-_-NPC_tank||Mom filled up her gas tank.
+sub-24/sub-24-_-NPC_tear||Down the sad woman's cheek came a tear.
+sub-24/sub-24-_-NPC_test||I cheated on the test.
+sub-24/sub-24-_-NPC_thorns||The rose had sharp thorns.
+sub-24/sub-24-_-NPC_three||I count one two three.
+sub-24/sub-24-_-NPC_toilet||I flush the toilet.
+sub-24/sub-24-_-NPC_trees||A monkey climbs trees.
+sub-24/sub-24-_-NPC_truck||His dad drove a delivery truck.
+sub-24/sub-24-_-NPC_walk||Babies crawl before they walk.
+sub-24/sub-24-_-NPC_wear||She had no clothes to wear.
+sub-24/sub-24-_-NPC_wet||The water got her hair wet.
+sub-24/sub-24-_-NPC_whales||The biggest animals in the sea are whales.
+sub-24/sub-24-_-NPC_wind||My hair was blown by the wind.
+sub-24/sub-24-_-NPC_wood||He chopped the wood.
+sub-24/sub-24-_-NPI_aisle(chicken)||The bride walked down the chicken.
+sub-24/sub-24-_-NPI_animals(trampoline)||The sign said do not feed the trampoline.
+sub-24/sub-24-_-NPI_ants(fish)||The picnic was ruined by crawling fish.
+sub-24/sub-24-_-NPI_apple(balloon)||His favorite fruit was a red crisp balloon.
+sub-24/sub-24-_-NPI_arm(stack)||I have two legs and two stack.
+sub-24/sub-24-_-NPI_axe(grass)||My dad chops wood with an grass.
+sub-24/sub-24-_-NPI_bag(bell)||He puts his lunch in a paper bell.
+sub-24/sub-24-_-NPI_bake(milk)||The cake is in the oven to milk.
+sub-24/sub-24-_-NPI_bank(hike)||My mom puts money in the hike.
+sub-24/sub-24-_-NPI_barn(claw)||The farmer's animals live in the claw.
+sub-24/sub-24-_-NPI_bat(gel)||The boy hit the ball with  a gel.
+sub-24/sub-24-_-NPI_bath(roar)||To get clean I take a roar.
+sub-24/sub-24-_-NPI_beat(sneeze)||The drummer keeps the sneeze.
+sub-24/sub-24-_-NPI_bed(frog)||At night I sleep in my frog.
+sub-24/sub-24-_-NPI_belt(bed)||Around my pants I wear a bed.
+sub-24/sub-24-_-NPI_bird(thorn)||Tweet goes the thorn.
+sub-24/sub-24-_-NPI_blinking(belly)||She lost the staring contest by belly.
+sub-24/sub-24-_-NPI_blocks(night)||The baby liked to stack night.
+sub-24/sub-24-_-NPI_bloom(school)||In spring the  flowers school.
+sub-24/sub-24-_-NPI_blue(arm)||The color of the sky is arm.
+sub-24/sub-24-_-NPI_boat(cop)||We went fishing on a cop.
+sub-24/sub-24-_-NPI_bones(wind)||The Museum showed dinosaur wind.
+sub-24/sub-24-_-NPI_books(tear)||He likes to read tear.
+sub-24/sub-24-_-NPI_bottle(money)||The baby drinks from his money.
+sub-24/sub-24-_-NPI_bow(eye)||On the present I tied a eye.
+sub-24/sub-24-_-NPI_bowl(test)||He pours cereal into a test.
+sub-24/sub-24-_-NPI_brakes(cob)||The car stopped with its cob.
+sub-24/sub-24-_-NPI_bread(sea)||She baked a loaf of sea.
+sub-24/sub-24-_-NPI_bricks(leg)||My fireplace is made of red leg.
+sub-24/sub-24-_-NPI_bridge(steak)||Boats sail under the steak.
+sub-24/sub-24-_-NPI_bright(gills)||I wear sunglasses because the sun is gills.
+sub-24/sub-24-_-NPI_broke(pond)||He wore a cast because his arm pond.
+sub-24/sub-24-_-NPI_broom(bus)||I sweep the floor with a bus.
+sub-24/sub-24-_-NPI_brown(job)||A tree trunk is colored job.
+sub-24/sub-24-_-NPI_bruise(rain)||I hit my arm and got a rain.
+sub-24/sub-24-_-NPI_bulb(farm)||Tom replaced the light farm.
+sub-24/sub-24-_-NPI_bus(egg)||To school I ride the yellow egg.
+sub-24/sub-24-_-NPI_bushes(oven)||Outside a man trimmed the oven.
+sub-24/sub-24-_-NPI_button(hotdog)||On the remote he clicked the hotdog.
+sub-24/sub-24-_-NPI_cake(clue)||He baked a birthday clue.
+sub-24/sub-24-_-NPI_camping(bacon)||We bring a tent to go bacon.
+sub-24/sub-24-_-NPI_candles(planet)||She blew out the birthday planet.
+sub-24/sub-24-_-NPI_cane(fin)||The old man walked with a fin.
+sub-24/sub-24-_-NPI_cap(chore)||He screwed off the bottle chore.
+sub-24/sub-24-_-NPI_cape(pole)||Superman wears a red pole.
+sub-24/sub-24-_-NPI_car(chest)||He puts gas in his chest.
+sub-24/sub-24-_-NPI_cart(score)||At the store I pushed the score.
+sub-24/sub-24-_-NPI_castle(doctor)||A princess lives in a doctor.
+sub-24/sub-24-_-NPI_cat(spray)||Meow goes the spray.
+sub-24/sub-24-_-NPI_catch(road)||I throw and you road.
+sub-24/sub-24-_-NPI_caves(string)||Bats live in string.
+sub-24/sub-24-_-NPI_chalk(fat)||On the sidewalk I draw with  fat.
+sub-24/sub-24-_-NPI_cheese(clock)||Her favorite food is mac and clock.
+sub-24/sub-24-_-NPI_chest(sock)||My heart was pounding in my sock.
+sub-24/sub-24-_-NPI_chick(bruise)||A baby chicken is a bruise.
+sub-24/sub-24-_-NPI_chores(cave)||My mom makes me do household cave.
+sub-24/sub-24-_-NPI_claws(floor)||The cat has sharp floor.
+sub-24/sub-24-_-NPI_clay(gas)||In art class we mold gas.
+sub-24/sub-24-_-NPI_clean(cheek)||I keep my room cheek.
+sub-24/sub-24-_-NPI_clock(tree)||Tick tock goes the tree.
+sub-24/sub-24-_-NPI_clothes(bite)||My parents fold my bite.
+sub-24/sub-24-_-NPI_clouds(dirt)||In the sky are white fluffy dirt.
+sub-24/sub-24-_-NPI_clown(dice)||I laughed at the circus dice.
+sub-24/sub-24-_-NPI_clues(year)||The detectives found many year.
+sub-24/sub-24-_-NPI_coach(goose)||I was taught by my soccer goose.
+sub-24/sub-24-_-NPI_coat(loaf)||I put on my rain loaf.
+sub-24/sub-24-_-NPI_cob(lie)||She eats corn on the lie.
+sub-24/sub-24-_-NPI_cold(bib)||Winter is very bib.
+sub-24/sub-24-_-NPI_cone(hug)||He eats his ice cream on a hug.
+sub-24/sub-24-_-NPI_cop(cake)||He was pulled over by a cake.
+sub-24/sub-24-_-NPI_couch(bulb)||I watch tv and sit on the bulb.
+sub-24/sub-24-_-NPI_cough(friend)||My cold made me sneeze and friend.
+sub-24/sub-24-_-NPI_cow(axe)||Farmers milk the axe.
+sub-24/sub-24-_-NPI_crafts(tank)||I like arts and tank.
+sub-24/sub-24-_-NPI_cream(couch)||I spray whipped couch.
+sub-24/sub-24-_-NPI_cribs(shot)||Babies sleep in shot.
+sub-24/sub-24-_-NPI_crown(bench)||A king wears a bench.
+sub-24/sub-24-_-NPI_crust(foot)||His mom makes her own pie foot.
+sub-24/sub-24-_-NPI_dancers(pirate)||Ballerinas are great pirate.
+sub-24/sub-24-_-NPI_deep(bone)||The pool was six feet bone.
+sub-24/sub-24-_-NPI_desk(ice)||In school I sit at a ice.
+sub-24/sub-24-_-NPI_dip(cage)||I love chips and cage.
+sub-24/sub-24-_-NPI_dirt(screw)||Worms crawl in the screw.
+sub-24/sub-24-_-NPI_dog(chalk)||Bark says the chalk.
+sub-24/sub-24-_-NPI_dolls(worm)||My sister plays with Barbie worm.
+sub-24/sub-24-_-NPI_door(smoke)||He shut the smoke.
+sub-24/sub-24-_-NPI_dream(lawn)||She woke up after a bad lawn.
+sub-24/sub-24-_-NPI_dress(fun)||The bride wears a white fun.
+sub-24/sub-24-_-NPI_drill(bowl)||At school there was a fire bowl.
+sub-24/sub-24-_-NPI_duck(bank)||Quack goes the bank.
+sub-24/sub-24-_-NPI_dust(cook)||The old table was covered in cook.
+sub-24/sub-24-_-NPI_ears(bee)||I hear with my bee.
+sub-24/sub-24-_-NPI_earth(rose)||We live on planet rose.
+sub-24/sub-24-_-NPI_eats(ball)||The baby wears a bib when he ball.
+sub-24/sub-24-_-NPI_eyes(hip)||I see with my hip.
+sub-24/sub-24-_-NPI_fake(crust)||The diamond was not real it was crust.
+sub-24/sub-24-_-NPI_farm(bird)||Cows live on a bird.
+sub-24/sub-24-_-NPI_fast(thief)||Cheetahs  are really thief.
+sub-24/sub-24-_-NPI_fat(glass)||Goats are skinny and pigs are glass.
+sub-24/sub-24-_-NPI_fear(walk)||The brave man had no walk.
+sub-24/sub-24-_-NPI_fight(mouse)||The angry boys got in a mouse.
+sub-24/sub-24-_-NPI_fin(desk)||Sharks have a tail desk.
+sub-24/sub-24-_-NPI_fingers(kitchen)||On one hand I have five kitchen.
+sub-24/sub-24-_-NPI_fish(cry)||On the boat my dad caught a cry.
+sub-24/sub-24-_-NPI_fist(bath)||I punched the bag with my bath.
+sub-24/sub-24-_-NPI_fixed(dog)||The toy broke and needed to be dog.
+sub-24/sub-24-_-NPI_flag(touch)||He waves an American touch.
+sub-24/sub-24-_-NPI_flat(cow)||The earth is round not cow.
+sub-24/sub-24-_-NPI_flip(dark)||On the trampoline he did a dark.
+sub-24/sub-24-_-NPI_flop(toy)||At the pool he did a belly toy.
+sub-24/sub-24-_-NPI_fly(edge)||She swatted the edge.
+sub-24/sub-24-_-NPI_foot(shout)||I put the sock on my shout.
+sub-24/sub-24-_-NPI_freeze(sun)||In the winter the pond will sun.
+sub-24/sub-24-_-NPI_fridge(pig)||The Jell-O had to chill in the pig.
+sub-24/sub-24-_-NPI_friend(pound)||I play with my best pound.
+sub-24/sub-24-_-NPI_frog(glove)||Ribbit goes the glove.
+sub-24/sub-24-_-NPI_fruit(tent)||He likes to eat fresh tent.
+sub-24/sub-24-_-NPI_fur(dad)||Cats have soft dad.
+sub-24/sub-24-_-NPI_game(coal)||His dad watches the football coal.
+sub-24/sub-24-_-NPI_ghosts(strike)||The house was haunted by strike.
+sub-24/sub-24-_-NPI_gills(doll)||Fish breathe through doll.
+sub-24/sub-24-_-NPI_glass(shoe)||Windows are made of shoe.
+sub-24/sub-24-_-NPI_gloves(car)||On his hands are a pair of car.
+sub-24/sub-24-_-NPI_glue(cliff)||The paper sticks together like cliff.
+sub-24/sub-24-_-NPI_goal(hair)||The soccer team scored a hair.
+sub-24/sub-24-_-NPI_goat(bread)||Bah says the sheep and bread.
+sub-24/sub-24-_-NPI_gold(fridge)||Wedding rings are made of fridge.
+sub-24/sub-24-_-NPI_gone(feet)||The cookies were eaten until they were feet.
+sub-24/sub-24-_-NPI_goose(pipe)||We played duck duck pipe.
+sub-24/sub-24-_-NPI_grade(grill)||In school he is in first grill.
+sub-24/sub-24-_-NPI_grapes(man)||Raisins are dried man.
+sub-24/sub-24-_-NPI_gray(bald)||The rainy sky was colored bald.
+sub-24/sub-24-_-NPI_green(lock)||The grass is colored lock.
+sub-24/sub-24-_-NPI_grill(heart)||He cooked hotdogs outside on the heart.
+sub-24/sub-24-_-NPI_guess(grape)||On an answer he made a lucky grape.
+sub-24/sub-24-_-NPI_gum(coat)||He is chewing bubble coat.
+sub-24/sub-24-_-NPI_hair(nest)||Bald people do not have nest.
+sub-24/sub-24-_-NPI_hands(king)||I clap my king.
+sub-24/sub-24-_-NPI_hug(fear)||Charlie wanted a kiss and a fear.
+sub-24/sub-24-_-NPI_inches(cookie)||This year he has grown two cookie.
+sub-24/sub-24-_-NPI_job(pants)||His mom quit her pants.
+sub-24/sub-24-_-NPI_kitchen(baby)||She cooks in the baby.
+sub-24/sub-24-_-NPI_lawn(weight)||My dad mows the weight.
+sub-24/sub-24-_-NPI_legs(barn)||Dogs have four barn.
+sub-24/sub-24-_-NPI_lie(cup)||Not telling the truth is telling a cup.
+sub-24/sub-24-_-NPI_mouse(store)||The cat chased the store.
+sub-24/sub-24-_-NPI_nests(drill)||Birds like to build drill.
+sub-24/sub-24-_-NPI_nice(gum)||The opposite of mean is gum.
+sub-24/sub-24-_-NPI_outside(apple)||He put on his shoes to go apple.
+sub-24/sub-24-_-NPI_pants(woods)||He pulled up his woods.
+sub-24/sub-24-_-NPI_party(sidewalk)||He had fun at the birthday sidewalk.
+sub-24/sub-24-_-NPI_phone(snake)||He called Helen on the snake.
+sub-24/sub-24-_-NPI_pictures(contest)||I like to draw contest.
+sub-24/sub-24-_-NPI_pipe(phone)||His grandpa smoked from a phone.
+sub-24/sub-24-_-NPI_present(sister)||For his birthday I wrapped a sister.
+sub-24/sub-24-_-NPI_shot(crown)||The doctor gave him a flu crown.
+sub-24/sub-24-_-NPI_skunk(broom)||His dog was sprayed by a broom.
+sub-24/sub-24-_-NPI_snake(play)||Hiss goes the play.
+sub-24/sub-24-_-NPI_solve(cloud)||He had a mystery to cloud.
+sub-24/sub-24-_-NPI_spider(summer)||There are eight legs on a summer.
+sub-24/sub-24-_-NPI_steal(earth)||A thief likes to earth.
+sub-24/sub-24-_-NPI_store(stick)||We buy toys at the toy stick.
+sub-24/sub-24-_-NPI_stove(kid)||He burned his hand on the kid.
+sub-24/sub-24-_-NPI_string(chick)||His guitar had a broken chick.
+sub-24/sub-24-_-NPI_study(princess)||He failed the test because he didn't princess.
+sub-24/sub-24-_-NPI_sun(lunch)||The clouds hid the lunch.
+sub-24/sub-24-_-NPI_tank(truth)||Mom filled up her gas truth.
+sub-24/sub-24-_-NPI_tear(corn)||Down the sad woman's cheek came a corn.
+sub-24/sub-24-_-NPI_test(dust)||I cheated on the dust.
+sub-24/sub-24-_-NPI_thorns(house)||The rose had sharp house.
+sub-24/sub-24-_-NPI_three(boy)||I count one two boy.
+sub-24/sub-24-_-NPI_toilet(window)||I flush the window.
+sub-24/sub-24-_-NPI_trees(book)||A monkey climbs book.
+sub-24/sub-24-_-NPI_truck(cap)||His dad drove a delivery break.
+sub-24/sub-24-_-NPI_walk(class)||Babies crawl before they class.
+sub-24/sub-24-_-NPI_wear(chief)||She had no clothes to chief.
+sub-24/sub-24-_-NPI_wet(whale)||The water got her hair whale.
+sub-24/sub-24-_-NPI_whales(dress)||The biggest animals in the sea are dress.
+sub-24/sub-24-_-NPI_wind(cheese)||My hair was blown by the cheese.
+sub-24/sub-24-_-NPI_wood(cough)||He chopped the cough.
